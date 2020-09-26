@@ -8,5 +8,6 @@ int main()
     cout << "Enter\n";
     cout << a*12 << endl;
 
+    
     return 0;
 }
