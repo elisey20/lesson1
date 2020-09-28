@@ -10,7 +10,7 @@ int main()
 
     int a;
     fin >> a;
-    fout << a*2;
+    fout << a*2 << "\nItsAll";
 
     fin.close();
     fout.close();
